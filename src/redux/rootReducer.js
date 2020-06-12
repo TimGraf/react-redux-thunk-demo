@@ -1,4 +1,4 @@
-export default (state = [], { type, payload }) => {
+export default (state = {}, { type, payload }) => {
     switch (type) {
         case 'ADD_SITE_STATUS':
             return {
