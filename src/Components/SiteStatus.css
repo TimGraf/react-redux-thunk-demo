@@ -1,0 +1,44 @@
+.Component {
+    border: 1px black solid;
+    margin: 10px auto;
+    padding: 10px;
+    width: 50%;
+}
+
+.SiteName {
+    font-weight: bold;
+    display: inline-block;
+    width: 40%;
+}
+
+.SiteButton {
+    display: inline-block;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 60px;
+}
+
+.SiteStatus {
+    border: 1px black solid;
+    padding: 5px;
+    width: 20%;
+    margin: 10px auto;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.Green {
+    background-color: green;
+}
+
+.Red {
+    background-color: red;
+}
+
+.Gray {
+    background-color: gray;
+}
+
+.White {
+    background-color: white;
+}
